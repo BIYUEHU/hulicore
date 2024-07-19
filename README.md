@@ -1,7 +1,7 @@
 # Hulicore
 
-![stars](https://img.shields.io/github/stars/biyuehu/hulicore)
-![commits](https://img.shields.io/github/commit-activity/t/biyuehu/hulicore)
+<!-- ![stars](https://img.shields.io/github/stars/biyuehu/hulicore) -->
+<!-- ![commits](https://img.shields.io/github/commit-activity/t/biyuehu/hulicore) -->
 [![wakatime](https://wakatime.com/badge/user/018dc603-712a-4205-a226-d4c9ccd0d02b/project/018dd427-9f87-44a1-a59d-cfdce0bda071.svg)](https://wakatime.com/badge/user/018dc603-712a-4205-a226-d4c9ccd0d02b/project/018dd427-9f87-44a1-a59d-cfdce0bda071)
 
 <div style="color:red">
